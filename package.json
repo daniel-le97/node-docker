@@ -1,11 +1,11 @@
 {
-  "name": "docker-ts",
+  "name": "@banh/docker-node",
   "type": "module",
   "version": "0.0.2",
   "packageManager": "pnpm@8.10.2",
   "description": "",
   "license": "MIT",
-  "repository": "daniel-le97/docker-ts",
+  "repository": "daniel-le97/node-docker",
   "sideEffects": false,
   "exports": {
     ".": {
