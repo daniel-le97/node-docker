@@ -1,11 +1,11 @@
 {
-  "name": "package",
+  "name": "docker-ts",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "packageManager": "pnpm@8.10.2",
   "description": "",
   "license": "MIT",
-  "repository": "unjs/packageName",
+  "repository": "daniel-le97/docker-ts",
   "sideEffects": false,
   "exports": {
     ".": {
