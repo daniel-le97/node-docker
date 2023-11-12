@@ -1,4 +1,4 @@
-# @banh/docker-node
+# @leinad54/docker-ts
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -13,26 +13,26 @@ Install package:
 
 ```sh
 # npm
-npm install @banh/docker-node
+npm install @leinad54/docker-ts
 
 # yarn
-yarn add @banh/docker-node
+yarn add @leinad54/docker-ts
 
 # pnpm
-pnpm install @banh/docker-node
+pnpm install @leinad54/docker-ts
 
 # bun
-bun install @banh/docker-node
+bun install @leinad54/docker-ts
 ```
 
 Import:
 
 ```js
 // ESM
-import { Docker } from '@banh/docker-node'
+import { Docker } from '@leinad54/docker-ts'
 
 // CommonJS
-const { Docker } = require('@banh/docker-node')
+const { Docker } = require('@leinad54/docker-ts')
 ```
 
 ## Development
@@ -51,11 +51,11 @@ Published under [MIT License](./LICENSE).
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/@banh/docker-node?style=flat&colorA=18181B&colorB=F0DB4F
-[npm-version-href]: https://npmjs.com/package/@banh/docker-node
-[npm-downloads-src]: https://img.shields.io/npm/dm/@banh/docker-node?style=flat&colorA=18181B&colorB=F0DB4F
-[npm-downloads-href]: https://npmjs.com/package/@banh/docker-node
-[codecov-src]: https://img.shields.io/codecov/c/gh/unjs/@banh/docker-node/main?style=flat&colorA=18181B&colorB=F0DB4F
-[codecov-href]: https://codecov.io/gh/unjs/@banh/docker-node
-[bundle-src]: https://img.shields.io/bundlephobia/minzip/@banh/docker-node?style=flat&colorA=18181B&colorB=F0DB4F
-[bundle-href]: https://bundlephobia.com/result?p=@banh/docker-node
+[npm-version-src]: https://img.shields.io/npm/v/@leinad54/docker-ts?style=flat&colorA=18181B&colorB=F0DB4F
+[npm-version-href]: https://npmjs.com/package/@leinad54/docker-ts
+[npm-downloads-src]: https://img.shields.io/npm/dm/@leinad54/docker-ts?style=flat&colorA=18181B&colorB=F0DB4F
+[npm-downloads-href]: https://npmjs.com/package/@leinad54/docker-ts
+[codecov-src]: https://img.shields.io/codecov/c/gh/unjs/@leinad54/docker-ts/main?style=flat&colorA=18181B&colorB=F0DB4F
+[codecov-href]: https://codecov.io/gh/unjs/@leinad54/docker-ts
+[bundle-src]: https://img.shields.io/bundlephobia/minzip/@leinad54/docker-ts?style=flat&colorA=18181B&colorB=F0DB4F
+[bundle-href]: https://bundlephobia.com/result?p=@leinad54/docker-ts
