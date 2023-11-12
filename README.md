@@ -29,10 +29,10 @@ Import:
 
 ```js
 // ESM
-import {} from "packageName";
+import {} from 'packageName'
 
 // CommonJS
-const {} = require("packageName");
+const {} = require('packageName')
 ```
 
 ## Development
